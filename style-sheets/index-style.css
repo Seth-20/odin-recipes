@@ -34,5 +34,9 @@
 img{
     padding-left: 30px;
     padding-bottom: 30px;
-    
+
+}
+
+*{
+    background-color: rgb(250, 247, 229);
 }
