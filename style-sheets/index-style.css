@@ -6,7 +6,6 @@
     font-size:large;
     padding-bottom: 5px;
     padding-top: 90px;
-    padding-right: 5px;
     margin-bottom: 0%;
     font-family:Georgia, 'Times New Roman', Times, serif;
     
@@ -15,14 +14,14 @@
 .Food{
     padding: 30px;
     padding-bottom: 3px;
-    padding-top: 90;
+    padding-top: 50px;
     background-color: rgb(185, 221, 221);
     color:  rgb(133, 133, 133);
     margin-top: 1px;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 500;
+    font-weight: 600;
     font-size: medium;
-    text-transform: uppercase;
+    text-transform: capitalize;
 }
 
 .Description{
